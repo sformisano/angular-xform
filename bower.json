@@ -1,0 +1,29 @@
+{
+  "name": "angular-xform",
+  "main": [
+    "angular-xform.js",
+    "data/xform-default-config.js",
+    "data/xform-demo-fields-data.js",
+    "directives/match.js",
+    "directives/xfield.js",
+    "directives/xform.js",
+    "polyfills/array-filter-polyfill.js",
+    "services/xfield-render-service.js",
+    "vendor/textAngular/textAngular-sanitize.js",
+    "vendor/textAngular/textAngular.js",
+    "vendor/textAngular/textAngularSetup.js"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/sformisano/angular-xform",
+  "authors": [
+    "Salvatore Formisano <formisanosalvatore@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
